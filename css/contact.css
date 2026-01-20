@@ -1,0 +1,41 @@
+form {
+  width: 100%;
+  background-color: #ebe3db;
+}
+
+.container1,
+.message {
+  display: flex;
+  gap: 1em;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.reservation h2,
+.details h2 {
+  padding-left: 0;
+}
+.reservation,
+.details {
+  display: flex;
+  flex-direction: column;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  justify-content:;
+}
+
+textarea {
+  width: 50%;
+}
+
+img {
+  width: 100%;
+}
+
+button {
+  background-color: #4c4343;
+  color: white;
+}
