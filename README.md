@@ -1,6 +1,6 @@
 # Freshly Restaurant
 
-Page pour un restaurant avec le menu et les plats proposes. Fait pendant ma formation a la 3W Academy.
+Page pour un restaurant avec le menu et les plats proposes. Fait pendant ma formation à la 3W Academy.
 
 ## Technologies
 
