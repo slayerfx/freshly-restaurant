@@ -1,6 +1,6 @@
 # Freshly Restaurant
 
-Page pour un restaurant avec le menu et les plats proposes. Fait pendant ma formation à la 3W Academy.
+Site de restauration avec intégration d'un diaporama automatique.
 
 ## Technologies
 
